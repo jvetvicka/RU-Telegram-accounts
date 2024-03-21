@@ -3,7 +3,7 @@ nepřátelských telegramových účtů, které šíří ruskou propagandu. Sezn
 
 Monitoringu (nejen) ruských informací na Telegramu se věnuje projekt [Hamilton](https://securingdemocracy.gmfus.org/hamilton-dashboard/), který například zobrazuje i nejpopulárnější příspěvky za určité období.
 
-☑️ - Účet je oficiální <br>
+☑️ - Účet je [oficiální](https://telegram.org/verify) <br>
 P - Nelze zobrazit v prohlížeči
 
 
