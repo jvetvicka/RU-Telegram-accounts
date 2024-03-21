@@ -1,6 +1,8 @@
 Ukrajinské Centrum pro boj proti dezinformacím společně s Kybernetickým oddělením bezpečnostní služby Ukrajiny zveřejnilo [seznam](https://cpd.gov.ua/reports/spysok-instrumentiv-poshyrennya-vorozhoyi-dezinformacziyi/) 
 nepřátelských telegramových účtů, které šíří ruskou propagandu. Seznam je bohužel pouze ve formě obrázku, takže není možné si účty jednoduše proklikat. Proto jsem zveřejnil tuto tabulku. Prozatím první dva obrázky.
 
+O převod z JPG do TXT se postaral Richard „Thersites_cz“ Pavlík.
+
 Monitoringu (nejen) ruských informací na Telegramu se věnuje projekt [Hamilton](https://securingdemocracy.gmfus.org/hamilton-dashboard/), který například zobrazuje i nejpopulárnější příspěvky za určité období.
 
 ☑️ - Účet je [oficiální](https://telegram.org/verify) <br>
