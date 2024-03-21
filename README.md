@@ -1,5 +1,5 @@
 Ukrajinské Centrum pro boj proti dezinformacím společně s Kybernetickým oddělením bezpečnostní služby Ukrajiny zveřejnilo [seznam](https://cpd.gov.ua/reports/spysok-instrumentiv-poshyrennya-vorozhoyi-dezinformacziyi/) 
-nepřátelských telegramových účtů, které šíří ruskou propagandu. Seznam je bohužel pouze ve formě obrázku, takže není možné si účty jednoduše proklikat. Proto jsem zveřejnil tuto tabulku. Prozatím první obrázek.
+nepřátelských telegramových účtů, které šíří ruskou propagandu. Seznam je bohužel pouze ve formě obrázku, takže není možné si účty jednoduše proklikat. Proto jsem zveřejnil tuto tabulku. Prozatím první dva obrázky.
 
 Monitoringu (nejen) ruských informací na Telegramu se věnuje projekt [Hamilton](https://securingdemocracy.gmfus.org/hamilton-dashboard/), který například zobrazuje i nejpopulárnější příspěvky za určité období.
 
@@ -39,3 +39,33 @@ P - Nelze zobrazit v prohlížeči
 |RT на русском                     |https://tgstat.ru/en/channel/@rt_russian     |869 517    |19.03.2023|P      |
 |Colonelcassad                     |https://t.me/s/boris_rozhin                  |832 915    |19.03.2023|       |
 |Повёрнутые на Z войне             |https://t.me/s/voenacher                     |752 082    |19.03.2023|       |
+|Поддубный &#124;Z&#124;O&#124;V&#124; edition            |https://t.me/s/epoddubny                  |730 023|21.03.2023||
+|Саня во Флориде                      |https://t.me/s/sanya_florida              |719 348|21.03.2023|      |
+|Объясняет Readovka                   |https://t.me/s/readovkaru                 |665 432|21.03.2023|      |
+|Федерация                            |https://tgstat.ru/channel/4P6RNr9XvrkwMGI6|595 509|21.03.2023|P     |
+|Военный Осведомитель                 |https://t.me/s/milinfolive/               |593 366|21.03.2023|      |
+|Два майора                           |https://t.me/s/dva_majors                 |620 378|21.03.2023|      |
+|Дмитрий Василец                      |https://t.me/s/VasiletsDmitriy            |594 636|21.03.2023|      |
+|Типичный Донецк                      |https://t.me/s/itsdonetsk                 |577 816|21.03.2023|      |
+|Старше Эдды                          |https://t.me/s/vysokygovorit              |585 551|21.03.2023|      |
+|Война с фейками                      |https://t.me/s/warfakes                   |543 206|21.03.2023|      |
+|Минобороны России ☑️                 |https://t.me/s/mod_russia                 |547 319|21.03.2023|      |
+|GREY ZONE                            |https://t.me/s/grey_zone                  |523 397|21.03.2023|      |
+|Kotsnews ☑️                          |https://t.me/s/sashakots                  |573 448|21.03.2023|      |
+|Спецоперация Z                       |https://tgstat.ru/channel/vcZKvvMe3-xhYWY6|510 563|21.03.2023|P     |
+|Стрелков Игорь Иванович              |https://t.me/s/strelkovii                 |503 160|21.03.2023|      |
+|СИГНАЛ                               |https://t.me/s/ssigny                     |503 955|21.03.2023|      |
+|BRIEF                                |https://t.me/s/rusbrief                   |511 297|21.03.2023|      |
+|#МОНТЯН!                             |https://t.me/s/montyan2                   |505 541|21.03.2023|      |
+|НЕБОЖЕНА                             |https://t.me/s/imnotbozhena               |506 784|21.03.2023|      |
+|Маргарита Симоньян ☑️                |https://t.me/s/margaritasimonyan          |500 515|21.03.2023|      |
+|REDACTED P6 (КОТЁЛ #6)               |https://t.me/s/redacted6                  |501 975|21.03.2023|      |
+|Tynu40k Goblina (oper.ru)            |https://t.me/s/oper_goblin                |489 703|21.03.2023|      |
+|Поздняков 3.0                        |https://tgstat.ru/channel/k_Z9AGYLs7g5ZGUy|489 922|21.03.2023|P     |
+|Кирилл Фёдоров / Война История Оружие|https://t.me/s/warhistoryalconafter       |482 112|21.03.2023|      |
+|Мария Захарова ☑️                    |https://t.me/s/MariaVladimirovnaZakharova |479 372|21.03.2023|      |
+|Дядя Слава                           |https://t.me/s/slavaded1337               |473 723|21.03.2023|      |
+|МИГ России                           |https://t.me/s/mig41                      |447 561|21.03.2023|      |
+|Fighterbomber                        |https://t.me/s/fighter_bomber             |445 035|21.03.2023|      |
+|Московская прачечная                 |https://t.me/s/moscow_laundry             |447 565|21.03.2023|      |
+|Шейх Тамир                           |https://t.me/s/sheyhtamir1974             |413 958|21.03.2023|      |
